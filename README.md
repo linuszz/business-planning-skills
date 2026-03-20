@@ -8,6 +8,21 @@
 
 This marketplace provides **50+ proven strategic consulting tools** organized into **5 plugins** covering the complete business planning lifecycle.
 
+## 🎯 Target Audience
+
+This toolkit is designed for **business leaders and strategic professionals** who need structured frameworks for complex decision-making:
+
+| Role | Use Case |
+|------|----------|
+| **CEO / C-Suite Executives** | Strategic planning, portfolio decisions, market assessment |
+| **CFO / Finance Leaders** | Financial modeling, valuation, investment analysis |
+| **Strategy Consultants** | Client engagements, due diligence, market entry studies |
+| **Business Analysts** | Data-driven analysis, competitive intelligence, forecasting |
+| **Product Managers** | Market sizing, customer segmentation, prioritization |
+| **Investment Professionals** | Company analysis, deal evaluation, portfolio strategy |
+
+**Why these skills matter:** McKinsey, BCG, and Bain consultants use these exact frameworks daily. Now your AI agent can apply the same rigorous methodology to your business challenges.
+
 ## 🌟 Community Notice
 
 **This repository is actively evolving!** 🚧
@@ -103,6 +118,19 @@ Executive presentation tools:
 - Traffic Light Charts
 
 ## Installation
+
+### Skills.sh (Recommended)
+
+```bash
+# Install all skills
+npx skills add linuszz/business-planning-skills
+
+# List available skills first
+npx skills add linuszz/business-planning-skills --list
+
+# Install specific skills
+npx skills add linuszz/business-planning-skills --skill swot-analysis --skill porters-five-forces
+```
 
 ### OpenCode / OpenClaw
 
