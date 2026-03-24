@@ -1,0 +1,318 @@
+[2026-03-21 00:05:01] === 开始发布任务 ===
+[2026-03-21 00:05:01] 📤 发布: forecasting
+[2026-03-21 01:05:01] === 开始发布任务 ===
+[2026-03-21 01:05:01] 📤 发布: forecasting
+[2026-03-21 02:05:01] === 开始发布任务 ===
+[2026-03-21 02:05:01] 📤 发布: forecasting-techniques
+[2026-03-21 03:05:01] === 开始发布任务 ===
+[2026-03-21 03:05:01] 📤 发布: free-cash-flow
+[2026-03-21 04:05:01] === 开始发布任务 ===
+[2026-03-21 04:05:01] 📤 发布: growth-spread-matrix
+[2026-03-21 05:05:01] === 开始发布任务 ===
+[2026-03-21 05:05:01] 📤 发布: market-sizing
+[2026-03-21 06:05:01] === 开始发布任务 ===
+[2026-03-21 06:05:01] 📤 发布: reverse-costing
+[2026-03-21 07:05:01] === 开始发布任务 ===
+[2026-03-21 07:05:01] 📤 发布: rona-chart
+[2026-03-21 08:05:01] === 开始发布任务 ===
+[2026-03-21 08:05:01] 📤 发布: ros-rms-analysis
+[2026-03-21 09:05:01] === 开始发布任务 ===
+[2026-03-21 09:05:01] 📤 发布: scatter-graphs
+[2026-03-21 10:05:01] === 开始发布任务 ===
+[2026-03-21 10:05:02] 📤 发布: sector-charts
+[2026-03-21 11:05:01] === 开始发布任务 ===
+[2026-03-21 11:05:01] 📤 发布: sensitivity-charts
+[2026-03-21 12:05:01] === 开始发布任务 ===
+[2026-03-21 12:05:01] 📤 发布: shareholder-value
+[2026-03-21 13:05:01] === 开始发布任务 ===
+[2026-03-21 13:05:01] 📤 发布: value-waterfall
+[2026-03-21 14:05:01] === 开始发布任务 ===
+[2026-03-21 14:05:01] 📤 发布: growth-share-matrix
+[2026-03-21 14:18:41] === 开始发布任务 ===
+[2026-03-21 14:19:52] === 开始发布任务 ===
+[2026-03-21 14:19:52] 📤 发布: portfolio-matrix
+[2026-03-21 14:20:41] === 开始发布任务 ===
+[2026-03-21 14:20:41] 📤 发布: portfolio-matrix
+[2026-03-21 14:20:46] ❌ 失败: portfolio-matrix - - Preparing portfolio-matrix@1.0.0
+✖ Uncaught ConvexError: Rate limit: max 20 new skills per 24 hours. Please wait before publishing more.
+    at enforceNewSkillRateLimit (../../convex/skills.ts:696:6)
+    at handler (../../convex/skills.ts:5784:6)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+
+Error: Uncaught ConvexError: Rate limit: max 20 new skills per 24 hours. Please wait before publishing more.
+    at enforceNewSkillRateLimit (../../convex/skills.ts:696:6)
+    at handler (../../convex/skills.ts:5784:6)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+[2026-03-21 14:20:47] 📤 发布: prioritization-funnel
+[2026-03-21 14:20:52] ❌ 失败: prioritization-funnel - - Preparing prioritization-funnel@1.0.0
+✖ Uncaught ConvexError: Rate limit: max 20 new skills per 24 hours. Please wait before publishing more.
+    at enforceNewSkillRateLimit (../../convex/skills.ts:696:6)
+    at handler (../../convex/skills.ts:5784:6)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+
+Error: Uncaught ConvexError: Rate limit: max 20 new skills per 24 hours. Please wait before publishing more.
+    at enforceNewSkillRateLimit (../../convex/skills.ts:696:6)
+    at handler (../../convex/skills.ts:5784:6)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+[2026-03-21 14:20:53] 📤 发布: risk-matrix
+[2026-03-21 14:20:58] ❌ 失败: risk-matrix - - Preparing risk-matrix@1.0.0
+✖ Uncaught ConvexError: Rate limit: max 20 new skills per 24 hours. Please wait before publishing more.
+    at enforceNewSkillRateLimit (../../convex/skills.ts:696:6)
+    at handler (../../convex/skills.ts:5784:6)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+
+Error: Uncaught ConvexError: Rate limit: max 20 new skills per 24 hours. Please wait before publishing more.
+    at enforceNewSkillRateLimit (../../convex/skills.ts:696:6)
+    at handler (../../convex/skills.ts:5784:6)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+[2026-03-21 14:20:59] 📤 发布: scenario-development
+[2026-03-21 14:21:05] ❌ 失败: scenario-development - - Preparing scenario-development@1.0.0
+✖ Uncaught ConvexError: Rate limit: max 20 new skills per 24 hours. Please wait before publishing more.
+    at enforceNewSkillRateLimit (../../convex/skills.ts:696:6)
+    at handler (../../convex/skills.ts:5784:6)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+
+Error: Uncaught ConvexError: Rate limit: max 20 new skills per 24 hours. Please wait before publishing more.
+    at enforceNewSkillRateLimit (../../convex/skills.ts:696:6)
+    at handler (../../convex/skills.ts:5784:6)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+[2026-03-21 14:21:06] 📤 发布: value-disciplines
+[2026-03-21 14:21:10] ❌ 失败: value-disciplines - - Preparing value-disciplines@1.0.0
+✖ Uncaught ConvexError: Rate limit: max 20 new skills per 24 hours. Please wait before publishing more.
+    at enforceNewSkillRateLimit (../../convex/skills.ts:696:6)
+    at handler (../../convex/skills.ts:5784:6)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+
+Error: Uncaught ConvexError: Rate limit: max 20 new skills per 24 hours. Please wait before publishing more.
+    at enforceNewSkillRateLimit (../../convex/skills.ts:696:6)
+    at handler (../../convex/skills.ts:5784:6)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+[2026-03-21 14:21:12] 📤 发布: competitor-analysis
+[2026-03-21 14:21:18] ❌ 失败: competitor-analysis - - Preparing competitor-analysis@1.0.0
+✖ Uncaught ConvexError: Slug is already taken. Choose a different slug. Existing skill: /aaron-he-zhu/competitor-analysis
+    at handler (../../convex/skills.ts:5721:4)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+
+Error: Uncaught ConvexError: Slug is already taken. Choose a different slug. Existing skill: /aaron-he-zhu/competitor-analysis
+    at handler (../../convex/skills.ts:5721:4)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+[2026-03-21 14:21:19] 📤 发布: kpc-comb
+[2026-03-21 14:21:24] ❌ 失败: kpc-comb - - Preparing kpc-comb@1.0.0
+✖ Uncaught ConvexError: Rate limit: max 20 new skills per 24 hours. Please wait before publishing more.
+    at enforceNewSkillRateLimit (../../convex/skills.ts:696:6)
+    at handler (../../convex/skills.ts:5784:6)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+
+Error: Uncaught ConvexError: Rate limit: max 20 new skills per 24 hours. Please wait before publishing more.
+    at enforceNewSkillRateLimit (../../convex/skills.ts:696:6)
+    at handler (../../convex/skills.ts:5784:6)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+[2026-03-21 14:21:25] 📤 发布: market-definition
+[2026-03-21 14:21:32] ❌ 失败: market-definition - - Preparing market-definition@1.0.0
+✖ Uncaught ConvexError: Rate limit: max 20 new skills per 24 hours. Please wait before publishing more.
+    at enforceNewSkillRateLimit (../../convex/skills.ts:696:6)
+    at handler (../../convex/skills.ts:5784:6)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+
+Error: Uncaught ConvexError: Rate limit: max 20 new skills per 24 hours. Please wait before publishing more.
+    at enforceNewSkillRateLimit (../../convex/skills.ts:696:6)
+    at handler (../../convex/skills.ts:5784:6)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+[2026-03-21 14:21:33] 📤 发布: market-entry-exit
+[2026-03-21 14:21:39] ❌ 失败: market-entry-exit - - Preparing market-entry-exit@1.0.0
+✖ Uncaught ConvexError: Rate limit: max 20 new skills per 24 hours. Please wait before publishing more.
+    at enforceNewSkillRateLimit (../../convex/skills.ts:696:6)
+    at handler (../../convex/skills.ts:5784:6)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+
+Error: Uncaught ConvexError: Rate limit: max 20 new skills per 24 hours. Please wait before publishing more.
+    at enforceNewSkillRateLimit (../../convex/skills.ts:696:6)
+    at handler (../../convex/skills.ts:5784:6)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+[2026-03-21 14:21:40] 📤 发布: pest-analysis
+[2026-03-21 14:21:46] ❌ 失败: pest-analysis - - Preparing pest-analysis@1.0.0
+✖ Uncaught ConvexError: Rate limit: max 20 new skills per 24 hours. Please wait before publishing more.
+    at enforceNewSkillRateLimit (../../convex/skills.ts:696:6)
+    at handler (../../convex/skills.ts:5784:6)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+
+Error: Uncaught ConvexError: Rate limit: max 20 new skills per 24 hours. Please wait before publishing more.
+    at enforceNewSkillRateLimit (../../convex/skills.ts:696:6)
+    at handler (../../convex/skills.ts:5784:6)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+[2026-03-21 14:21:47] 📤 发布: porters-five-forces
+[2026-03-21 14:21:53] ❌ 失败: porters-five-forces - - Preparing porters-five-forces@1.0.0
+✖ Uncaught ConvexError: Rate limit: max 20 new skills per 24 hours. Please wait before publishing more.
+    at enforceNewSkillRateLimit (../../convex/skills.ts:696:6)
+    at handler (../../convex/skills.ts:5784:6)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+
+Error: Uncaught ConvexError: Rate limit: max 20 new skills per 24 hours. Please wait before publishing more.
+    at enforceNewSkillRateLimit (../../convex/skills.ts:696:6)
+    at handler (../../convex/skills.ts:5784:6)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+[2026-03-21 14:21:54] 📤 发布: pyramid-principle
+[2026-03-21 14:21:59] ❌ 失败: pyramid-principle - - Preparing pyramid-principle@1.0.0
+✖ Uncaught ConvexError: Rate limit: max 20 new skills per 24 hours. Please wait before publishing more.
+    at enforceNewSkillRateLimit (../../convex/skills.ts:696:6)
+    at handler (../../convex/skills.ts:5784:6)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+
+Error: Uncaught ConvexError: Rate limit: max 20 new skills per 24 hours. Please wait before publishing more.
+    at enforceNewSkillRateLimit (../../convex/skills.ts:696:6)
+    at handler (../../convex/skills.ts:5784:6)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+[2026-03-21 14:22:00] 📤 发布: root-cause-analysis
+[2026-03-21 14:22:05] ❌ 失败: root-cause-analysis - - Preparing root-cause-analysis@1.0.0
+✖ Uncaught ConvexError: Rate limit: max 20 new skills per 24 hours. Please wait before publishing more.
+    at enforceNewSkillRateLimit (../../convex/skills.ts:696:6)
+    at handler (../../convex/skills.ts:5784:6)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+
+Error: Uncaught ConvexError: Rate limit: max 20 new skills per 24 hours. Please wait before publishing more.
+    at enforceNewSkillRateLimit (../../convex/skills.ts:696:6)
+    at handler (../../convex/skills.ts:5784:6)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+[2026-03-21 14:22:06] 📤 发布: value-chain
+[2026-03-21 14:22:13] ❌ 失败: value-chain - - Preparing value-chain@1.0.0
+✖ Uncaught ConvexError: Rate limit: max 20 new skills per 24 hours. Please wait before publishing more.
+    at enforceNewSkillRateLimit (../../convex/skills.ts:696:6)
+    at handler (../../convex/skills.ts:5784:6)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+
+Error: Uncaught ConvexError: Rate limit: max 20 new skills per 24 hours. Please wait before publishing more.
+    at enforceNewSkillRateLimit (../../convex/skills.ts:696:6)
+    at handler (../../convex/skills.ts:5784:6)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+[2026-03-21 14:22:14] 📤 发布: marimekko-charts
+[2026-03-21 14:22:20] ❌ 失败: marimekko-charts - - Preparing marimekko-charts@1.0.0
+✖ Uncaught ConvexError: Rate limit: max 20 new skills per 24 hours. Please wait before publishing more.
+    at enforceNewSkillRateLimit (../../convex/skills.ts:696:6)
+    at handler (../../convex/skills.ts:5784:6)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+
+Error: Uncaught ConvexError: Rate limit: max 20 new skills per 24 hours. Please wait before publishing more.
+    at enforceNewSkillRateLimit (../../convex/skills.ts:696:6)
+    at handler (../../convex/skills.ts:5784:6)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+[2026-03-21 14:22:21] 📤 发布: parfait-charts
+[2026-03-21 14:22:26] ❌ 失败: parfait-charts - - Preparing parfait-charts@1.0.0
+✖ Uncaught ConvexError: Rate limit: max 20 new skills per 24 hours. Please wait before publishing more.
+    at enforceNewSkillRateLimit (../../convex/skills.ts:696:6)
+    at handler (../../convex/skills.ts:5784:6)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+
+Error: Uncaught ConvexError: Rate limit: max 20 new skills per 24 hours. Please wait before publishing more.
+    at enforceNewSkillRateLimit (../../convex/skills.ts:696:6)
+    at handler (../../convex/skills.ts:5784:6)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+[2026-03-21 14:22:27] 📤 发布: products-services-differentiation
+[2026-03-21 14:22:33] ❌ 失败: products-services-differentiation - - Preparing products-services-differentiation@1.0.0
+✖ Uncaught ConvexError: Rate limit: max 20 new skills per 24 hours. Please wait before publishing more.
+    at enforceNewSkillRateLimit (../../convex/skills.ts:696:6)
+    at handler (../../convex/skills.ts:5784:6)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+
+Error: Uncaught ConvexError: Rate limit: max 20 new skills per 24 hours. Please wait before publishing more.
+    at enforceNewSkillRateLimit (../../convex/skills.ts:696:6)
+    at handler (../../convex/skills.ts:5784:6)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+[2026-03-21 14:22:34] 📤 发布: share-momentum
+[2026-03-21 14:22:39] ❌ 失败: share-momentum - - Preparing share-momentum@1.0.0
+✖ Uncaught ConvexError: Rate limit: max 20 new skills per 24 hours. Please wait before publishing more.
+    at enforceNewSkillRateLimit (../../convex/skills.ts:696:6)
+    at handler (../../convex/skills.ts:5784:6)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+
+Error: Uncaught ConvexError: Rate limit: max 20 new skills per 24 hours. Please wait before publishing more.
+    at enforceNewSkillRateLimit (../../convex/skills.ts:696:6)
+    at handler (../../convex/skills.ts:5784:6)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+[2026-03-21 14:22:40] 📤 发布: traffic-lights
+[2026-03-21 14:22:46] ❌ 失败: traffic-lights - - Preparing traffic-lights@1.0.0
+✖ Uncaught ConvexError: Rate limit: max 20 new skills per 24 hours. Please wait before publishing more.
+    at enforceNewSkillRateLimit (../../convex/skills.ts:696:6)
+    at handler (../../convex/skills.ts:5784:6)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+
+Error: Uncaught ConvexError: Rate limit: max 20 new skills per 24 hours. Please wait before publishing more.
+    at enforceNewSkillRateLimit (../../convex/skills.ts:696:6)
+    at handler (../../convex/skills.ts:5784:6)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+[2026-03-21 14:22:47] 📤 发布: weighted-column
+[2026-03-21 14:22:52] ❌ 失败: weighted-column - - Preparing weighted-column@1.0.0
+✖ Uncaught ConvexError: Rate limit: max 20 new skills per 24 hours. Please wait before publishing more.
+    at enforceNewSkillRateLimit (../../convex/skills.ts:696:6)
+    at handler (../../convex/skills.ts:5784:6)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+
+Error: Uncaught ConvexError: Rate limit: max 20 new skills per 24 hours. Please wait before publishing more.
+    at enforceNewSkillRateLimit (../../convex/skills.ts:696:6)
+    at handler (../../convex/skills.ts:5784:6)
+    at async handler (../../node_modules/.bun/convex-helpers@0.1.114+063d7157d14469c3/node_modules/convex-helpers/server/customFunctions.js:268:27)
+[2026-03-21 14:22:53] === 发布任务完成 ===
+[2026-03-21 14:22:53] 本次发布: 0 成功, 20 失败
+[2026-03-21 14:22:53] 总计: 30/50 已发布, 20 待发布
+[2026-03-21 15:05:01] === 开始发布任务 ===
+[2026-03-21 15:05:01] 📤 发布: portfolio-matrix
+[2026-03-21 15:05:09] ⚠️  24小时 Rate limit 达成，停止发布
+[2026-03-21 15:05:09] === 发布任务完成 ===
+[2026-03-21 15:05:09] 本次发布: 0 成功, 0 失败
+[2026-03-21 15:05:09] 总计: 30 已发布, 1 被占用, 19 待发布
+[2026-03-21 15:05:09] ⏳ 需要等待 24 小时后继续发布
+[2026-03-21 16:05:01] === 开始发布任务 ===
+[2026-03-21 16:05:01] 📤 发布: portfolio-matrix
+[2026-03-21 16:05:09] ⚠️  24小时 Rate limit 达成，停止发布
+[2026-03-21 16:05:09] === 发布任务完成 ===
+[2026-03-21 16:05:09] 本次发布: 0 成功, 0 失败
+[2026-03-21 16:05:09] 总计: 30 已发布, 1 被占用, 19 待发布
+[2026-03-21 16:05:09] ⏳ 需要等待 24 小时后继续发布
+[2026-03-21 17:05:01] === 开始发布任务 ===
+[2026-03-21 17:05:01] 📤 发布: portfolio-matrix
+[2026-03-21 17:05:10] ⚠️  24小时 Rate limit 达成，停止发布
+[2026-03-21 17:05:11] === 发布任务完成 ===
+[2026-03-21 17:05:11] 本次发布: 0 成功, 0 失败
+[2026-03-21 17:05:11] 总计: 30 已发布, 1 被占用, 19 待发布
+[2026-03-21 17:05:11] ⏳ 需要等待 24 小时后继续发布
+[2026-03-21 18:05:01] === 开始发布任务 ===
+[2026-03-21 18:05:01] 📤 发布: portfolio-matrix
+[2026-03-21 18:05:09] ⚠️  24小时 Rate limit 达成，停止发布
+[2026-03-21 18:05:09] === 发布任务完成 ===
+[2026-03-21 18:05:09] 本次发布: 0 成功, 0 失败
+[2026-03-21 18:05:09] 总计: 30 已发布, 1 被占用, 19 待发布
+[2026-03-21 18:05:09] ⏳ 需要等待 24 小时后继续发布
+[2026-03-21 19:05:01] === 开始发布任务 ===
+[2026-03-21 19:05:01] 📤 发布: portfolio-matrix
+[2026-03-21 19:05:10] ⚠️  24小时 Rate limit 达成，停止发布
+[2026-03-21 19:05:10] === 发布任务完成 ===
+[2026-03-21 19:05:10] 本次发布: 0 成功, 0 失败
+[2026-03-21 19:05:10] 总计: 30 已发布, 1 被占用, 19 待发布
+[2026-03-21 19:05:10] ⏳ 需要等待 24 小时后继续发布
+[2026-03-21 20:05:01] === 开始发布任务 ===
+[2026-03-21 20:05:01] 📤 发布: portfolio-matrix
+[2026-03-21 20:05:10] ⚠️  24小时 Rate limit 达成，停止发布
+[2026-03-21 20:05:10] === 发布任务完成 ===
+[2026-03-21 20:05:10] 本次发布: 0 成功, 0 失败
+[2026-03-21 20:05:10] 总计: 30 已发布, 1 被占用, 19 待发布
+[2026-03-21 20:05:10] ⏳ 需要等待 24 小时后继续发布
+[2026-03-21 21:05:01] === 开始发布任务 ===
+[2026-03-21 21:05:02] 📤 发布: portfolio-matrix
+[2026-03-21 21:05:10] ⚠️  24小时 Rate limit 达成，停止发布
+[2026-03-21 21:05:10] === 发布任务完成 ===
+[2026-03-21 21:05:10] 本次发布: 0 成功, 0 失败
+[2026-03-21 21:05:10] 总计: 30 已发布, 1 被占用, 19 待发布
+[2026-03-21 21:05:10] ⏳ 需要等待 24 小时后继续发布
+[2026-03-21 22:05:01] === 开始发布任务 ===
+[2026-03-21 22:05:01] 📤 发布: portfolio-matrix
+[2026-03-21 22:05:10] ⚠️  24小时 Rate limit 达成，停止发布
+[2026-03-21 22:05:10] === 发布任务完成 ===
+[2026-03-21 22:05:10] 本次发布: 0 成功, 0 失败
+[2026-03-21 22:05:10] 总计: 30 已发布, 1 被占用, 19 待发布
+[2026-03-21 22:05:10] ⏳ 需要等待 24 小时后继续发布
+[2026-03-21 23:05:01] === 开始发布任务 ===
+[2026-03-21 23:05:01] 📤 发布: portfolio-matrix
+[2026-03-21 23:05:09] ⚠️  24小时 Rate limit 达成，停止发布
+[2026-03-21 23:05:09] === 发布任务完成 ===
+[2026-03-21 23:05:09] 本次发布: 0 成功, 0 失败
+[2026-03-21 23:05:09] 总计: 30 已发布, 1 被占用, 19 待发布
+[2026-03-21 23:05:09] ⏳ 需要等待 24 小时后继续发布

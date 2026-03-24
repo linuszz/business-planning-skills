@@ -1,12 +1,12 @@
 ---
-name: competitor-analysis
+name: strategic-competitor-analysis
 description: "Conduct systematic competitor analysis to understand competitive positioning. Use for market entry, competitive strategy, and strategic planning."
 ---
 
-# Competitor Analysis
+# Strategic Competitor Analysis
 
 ## Metadata
-- **Name**: competitor-analysis
+- **Name**: strategic-competitor-analysis
 - **Description**: Systematic competitor comparison and profiling
 - **Triggers**: competitor, competitive analysis, competitive landscape, rivals
 
